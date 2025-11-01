@@ -1,0 +1,9 @@
+
+> aittention-landing@1.0.0 dev
+> npx vite --port 3000
+
+
+  VITE v7.1.12  ready in 214 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: use --host to expose
